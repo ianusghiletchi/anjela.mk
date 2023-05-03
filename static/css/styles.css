@@ -1,0 +1,217 @@
+.howtousegooglefonts {
+font-family: 'Alkatra', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Edu NSW ACT Foundation', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+.my-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+/* -------------------THIS IS HERO----------------------- */
+ul {
+    list-style-type: none;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  margin: 0;
+}
+
+
+
+.logo {
+    font-family: 'Dancing Script', cursive;
+    padding-left: 71px;
+    font-size: 4.1rem;
+}
+
+.shopping-bag-icon {
+    margin-left: 1rem;
+}
+
+.shopping-div {
+    margin-right: 1rem;
+}
+
+.nav-item {
+    font-family: 'Alkatra', cursive;
+    font-size: 2.1rem;
+    margin-left: 5%;
+}
+
+.navbar {
+    background-color: #ffc0cb;
+}
+
+.offcanvas-body{
+    text-align: center;
+}
+
+.carousel-img {
+    margin-top: 2.5%;
+    border-style: groove;
+    border-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+    width: 77%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+
+.carousel-button-next {
+    font-size: 600px;
+    color: #fbcce7;
+    transform: rotate(-90deg)
+}
+
+.carousel-button-prev {
+    color: #fbcce7;
+    transform: rotate(90deg)
+}
+
+/*------FRESH PRODUCTS------*/
+
+.products-page {
+
+}
+
+.card {
+    margin-right: %;
+    margin-left: %;
+    margin-bottom: 20%;
+}
+
+.fresh-products-page {
+    text-align: center;
+    background-color: #FFF6FB;
+    border-style: dotted;
+    border-color: #ffe2f2;
+    border-width: 13px;
+
+}
+
+.fp-main-text {
+    word-spacing: 10px;
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+    font-size: 5rem;
+    padding-top: 1rem;
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    font-weight: 400;
+    border: 8px double pink;
+    border-radius: 12px;
+    text-shadow: 2px 2px 5px pink;
+    }
+
+
+/* best selllers */
+
+.customers-favorite-page {
+    background-color: #ffecf7;
+    text-align: center;
+    border-style: dotted;
+    border-color: #ECFFF4;
+    border-width: 13px;
+}
+
+.customers-favorite-text-main {
+    color: #e90088;
+    border-style:  none none solid  none;
+    border-width: thick;
+    font-family: 'Alkatra', cursive;
+    font-size: 5rem;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    text-align: center;
+}
+
+.betm-icon-left {
+    color: #e90088;
+    transform: rotate(-45deg)
+}
+
+.betm-icon-right {
+    color: #e90088;
+    transform: rotate(45deg)
+}
+
+/* ----------BIO PAGE------------------ */
+
+.bio-page {
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+  margin-top: 6%;
+  border: 10px solid pink;
+  border-radius: 12px;
+}
+
+
+
+.work-exp-div {
+  border: 2px solid pink;
+  border-radius: 5px;
+  border-style: dotted;
+}
+
+.location-div{
+  border: 2px solid pink;
+  border-radius: 5px;
+  border-style: dotted;
+}
+
+.happy-div{
+  border: 2px solid pink;
+  border-radius: 5px;
+   border-style: dotted;
+}
+
+.bio-icons {
+    margin-left: 42%;
+
+}
+
+.bio-item {
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+}
+
+/* ----------FOOTER----------- */
+
+.footer {
+    text-align:center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 6%;
+    width: 100%;
+    height: auto;
+    background-color: #ff8fa3;
+    padding: 2.5rem;
+}
+
+.bi {
+    margin-right: 2.5rem;
+    font-size: 2rem;
+    color: white;
+}
+
+.mbm {
+    text-align: center;
+    padding-bottom: 0.5px;
+    font-family: 'Alkatra', cursive;
+    background-color: #FF7C93 ;
+}

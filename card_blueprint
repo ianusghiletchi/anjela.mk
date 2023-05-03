@@ -1,0 +1,11 @@
+
+<div class="col-6 col-sm-6 col-md-6 col-lg-3">
+<div class="card shadow" id="[id_nr]">
+  <img src="[img_url]" class="card-img-top fpi" alt="product img">
+  <div class="card-body">
+    <h5 class="card-title" style="font-family: 'Alkatra', cursive; font-size: 1.5rem" >"[Card_title]"</h5>
+    <a href="[product_link]" style="font-family: 'Pacifico', cursive; font-size: 1.3rem" class="btn btn-info btn btn-outline-light">Info</a>
+    <a href="https://www.google.com/search?q=1+dolar+in+mdl&source=hp&ei=jvxHZJ3SOpiQgQa8q56QDw&iflsig=AOEireoAAAAAZEgKnpIaWVcY0k6XrEn1eLThr4CguJSb&ved=0ahUKEwid0fHrtsX-AhUYSMAKHbyVB_IQ4dUDCAk&uact=5&oq=1+dolar+in+mdl&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQggIyBggAEBYQHjIGCAAQFhAeOgsIABCKBRCxAxCDAToLCAAQgAQQsQMQgwE6CAgAEIoFELEDOggIABCABBCxAzoFCAAQgAQ6CAguEIoFELEDOhEILhCABBCxAxCDARDHARDRAzoICC4QgAQQ1AI6BwgAEIAEEApQ5gpYoypgrCxoA3AAeACAAdMBiAGJDZIBBTMuOS4ymAEAoAEBsAEA&sclient=gws-wiz" style="font-family: 'Pacifico', cursive; font-size: 1.3rem" class="info-button-card btn btn-light btn btn-outline-secondary">"[price]"</a>
+  </div>
+</div>
+</div>
